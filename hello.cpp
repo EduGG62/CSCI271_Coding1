@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: Carlos E. Gomez Arellano
+// Section: CSCI271-0956
 
 #include <iostream>
 using namespace std;
