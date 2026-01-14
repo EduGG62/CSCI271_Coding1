@@ -1,6 +1,7 @@
 // CSCI 27X - GitHub Upload Practice
 // Name: Carlos E. Gomez Arellano
 // Section: CSCI271-0956
+//date: Jan 14
 
 #include <iostream>
 using namespace std;
